@@ -33,9 +33,8 @@ uv add <package-1> <package-2> <package-3> <package-4>
 ```
 ---
 
->[!NOTE]
-
-If you wish to apply linting or script formatting using uv, run the following commands:
+>[!INFO]
+> If you wish to apply linting or script formatting using uv, run the following commands:
 
 #### **🧹 Linting & Formatting**
 
